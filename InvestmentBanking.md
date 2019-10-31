@@ -25,7 +25,9 @@
 > it.
 > * Thus, the companies get immediate capital from the investment banks, and the banks get profit from the company's success.
 
-> **Other roles of investment banks:** Most IBs deal with very large corporates and governments to manage projects' finances, which might
+> **Other roles of investment banks:** 
+
+> * Most IBs deal with very large corporates and governments to manage projects' finances, which might
 > otherwise be a gruesome task.
 > * IBs also facilitate mergers, acquisitions and sales. IBs advice their client companies as to how best to structure a deal to associate  with another company.
 > * For more details, visit [Investopedia](https://www.investopedia.com/terms/i/investment-banking.asp)
