@@ -1,11 +1,11 @@
-> What is Investment Banking
+> **What is Investment Banking**
 
 > * Investment banking is a banking process, wherein a bank manages and assists a company in its financial dealings, and after analysis,
 > suggests different measures to maximize profit.
 > * Public companies are companies that give out shares for the public to invest in. This handing out of shares is called Initial Public
 > Offering(IPO).
 
->  **How Investment Banks work:** 
+>  **How Investment Banks work** 
 
 > * Investment banks buy most/all shares of a company that plans to go public for a price, say x.
 > * It then sells out the shares to the public at a higher price. 
@@ -15,7 +15,7 @@
 > * Investment banks compete among one another to get a contract of IPO with companies. The contract goes out to the IB that offers the 
 > largest sum for the IPO. 
 
->  **How do companies benefit:** 
+>  **How do companies benefit** 
 
 > * One might wonder, if all the investment bank does, is buy at lower and sell at higher prices, why does 
 > the company itself not sell its shares at the higher price. 
@@ -27,5 +27,5 @@
 
 > **Other roles of investment banks:** Most IBs deal with very large corporates and governments to manage projects' finances, which might
 > otherwise be a gruesome task.
-> * IBs also facilitate mergers, acquisitions and sales. IBs advice their client companies as to how best to structure a deal to associate > with another company.
+> * IBs also facilitate mergers, acquisitions and sales. IBs advice their client companies as to how best to structure a deal to associate  with another company.
 > * For more details, visit [Investopedia](https://www.investopedia.com/terms/i/investment-banking.asp)
