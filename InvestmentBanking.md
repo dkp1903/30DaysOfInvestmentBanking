@@ -1,4 +1,4 @@
- ![@dkp1903.services](https://drive.google.com/open?id=1152ozV_kanveaouaDIh240agJZ9LhX-g)
+ ![@dkp1903.services](https://drive.google.com/open?id=17twzMO2VtV70wn2L_Rzu2ulLyh2l7BuH)
 > **What is Investment Banking**
 
 > * Investment banking is a banking process, wherein a bank manages and assists a company in its financial dealings, and after analysis,
